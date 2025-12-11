@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am currently transitioning from a strong technical background in QA Analysis to Data Science. Combining 3+ years of experience in root-cause analysis and data-driven validation with intense training in Python, Machine Learning, and Statistical Modeling. Passionate about leveraging data to solve complex problems and optimize systems.
+
+My goal is to combine my QA background with data-driven approaches and grow into a Data Scientist / Machine Learning&AI Engineer role in the long term.
+
+Beyond technical analysis, I am a proactive community builder bringing strong communication skills to data science teams.
+
+### "It always seems impossible until it is done." So, focus on the positive :)
+
 <!--
 **AdalSuUygur/AdalSuUygur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
