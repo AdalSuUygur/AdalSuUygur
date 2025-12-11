@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Adal!
 
 I am currently transitioning from a strong technical background in QA Analysis to Data Science. Combining 3+ years of experience in root-cause analysis and data-driven validation with intense training in Python, Machine Learning, and Statistical Modeling. Passionate about leveraging data to solve complex problems and optimize systems.
 
