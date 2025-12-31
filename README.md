@@ -1,24 +1,42 @@
-## Hi there 👋 I'm Adal!
+# Hello, I'm Adal Su Uygur! 👋
 
-I am currently transitioning from a strong technical background in QA Analysis to Data Science. Combining 3+ years of experience in root-cause analysis and data-driven validation with intense training in Python, Machine Learning, and Statistical Modeling. Passionate about leveraging data to solve complex problems and optimize systems.
+## QA Analyst | Data Science & AI Enthusiast
 
-My goal is to combine my QA background with data-driven approaches and grow into a Data Scientist / Machine Learning&AI Engineer role in the long term.
+Transitioning from a strong technical background in **Quality Assurance** to **Data Science & AI Engineering**. 
 
-Beyond technical analysis, I am a proactive community builder bringing strong communication skills to data science teams.
+I combine 3+ years of experience in root-cause analysis and data-driven validation with intense training in Python, Machine Learning, and Statistical Modeling.
 
-### "It always seems impossible until it is done." So, focus on the positive :)
+---
 
-<!--
-**AdalSuUygur/AdalSuUygur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- Currently a **Data Science Trainee**
+- Previously managed large-scale game data and testing processes at **TaleWorlds Entertainment** (*Mount & Blade II: Bannerlord*) and **Gamegos**
+- Deepening my knowledge in **Python, SQL, Machine Learning, and Generative AI**
+- My Goal: To bridge the gap between QA discipline and Data Science, growing into a **Data Scientist** or **AI Engineer** role
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Data Science & Analysis**\
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**QA & Testing**\
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools & Workflow**\
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
+
+---
+
+### Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/adalsuuygur" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Adal Su Uygur LinkedIn" /></a>
+<a href="mailto:AdalSuUygur@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
